@@ -1,0 +1,19 @@
+{
+    "name": "evg/blog",
+    "description": "my test blog project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Controller\\": "controllers/",
+            "Model\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evg"
+        }
+    ],
+    "require": {}
+}
